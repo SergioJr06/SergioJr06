@@ -42,7 +42,7 @@ class SergioEduardo:
 - 🤖 Gosto de brincar com **IA**: visão computacional, PyTorch e apps rápidos em Streamlit.
 - ⚡ Venho do mundo da **eletroeletrônica** — eletrônica analógica e digital, Arduino, Raspberry Pi e automação também são meu território.
 - 🧩 Resolvo desafios de lógica no NeetCode para manter o raciocínio afiado.
-- 💬 Bora trocar ideia sobre segurança, Python ou projetos malucos de fim de semana.
+- 💬 Sou aberto a conhecer novas pessoas e culturas!
 
 ---
 
