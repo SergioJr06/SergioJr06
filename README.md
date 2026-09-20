@@ -150,6 +150,12 @@ class SergioEduardo:
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SergioJr06/SergioJr06/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 📫 Vamos conversar
 
 <div align="center">
