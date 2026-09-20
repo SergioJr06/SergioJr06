@@ -40,7 +40,7 @@ class SergioEduardo:
 
 - 🔐 Construindo carreira em **Segurança da Informação** — redes, Linux, hardening e análise de vulnerabilidades.
 - 🤖 Gosto de brincar com **IA**: visão computacional, PyTorch e apps rápidos em Streamlit.
-- ⚡ Venho do mundo da **eletroeletrônica** — Arduino, Raspberry Pi e automação também são meu território.
+- ⚡ Venho do mundo da **eletroeletrônica** — eletrônica analógica e digital, Arduino, Raspberry Pi e automação também são meu território.
 - 🧩 Resolvo desafios de lógica no NeetCode para manter o raciocínio afiado.
 - 💬 Bora trocar ideia sobre segurança, Python ou projetos malucos de fim de semana.
 
@@ -58,7 +58,7 @@ class SergioEduardo:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
 ### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
 <br>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/SAP%20ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
@@ -75,6 +75,7 @@ class SergioEduardo:
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=gnometerminal&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" />
 
 ### 🤖 IA & Dados
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
@@ -88,6 +89,7 @@ class SergioEduardo:
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 <br>
 <img src="https://img.shields.io/badge/Eletr%C3%B4nica%20Digital-FFB300?style=flat-square&logo=circuitverse&logoColor=black" />
+<img src="https://img.shields.io/badge/Eletr%C3%B4nica%20Anal%C3%B3gica-FF6F00?style=flat-square&logo=riscv&logoColor=white" />
 
 ### ⚙️ Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
@@ -134,6 +136,14 @@ class SergioEduardo:
 
 <img src="https://github-profile-trophy.vercel.app/?username=SergioJr06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SergioJr06/SergioJr06/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SergioJr06/SergioJr06/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/SergioJr06/SergioJr06/output/snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -147,12 +157,6 @@ class SergioEduardo:
 | 🤖 IA | Visão computacional com PyTorch e OpenCV | 🟡 Explorando |
 | 🧠 Algoritmos | Estruturas de dados e desafios no NeetCode | 🟢 Em andamento |
 | 🎓 Graduação | Engenharia da Computação — UNISAL | 📅 Conclusão em 2027 |
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SergioJr06/SergioJr06/output/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
