@@ -154,7 +154,7 @@ class SergioEduardo:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+<a href="https://www.linkedin.com/in/sergioeduardojr" target="_blank">
   <img src="https://img.shields.io/badge/Me%20chame%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sergioepfjr@gmail.com">
