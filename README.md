@@ -102,22 +102,14 @@ class SergioEduardo:
 
 ## 📌 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/SergioJr06/Projeto-de-Login-Sign">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioJr06&repo=Projeto-de-Login-Sign&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/SergioJr06/ProjetoEngSoft_Transportadora">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioJr06&repo=ProjetoEngSoft_Transportadora&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/SergioJr06/PainelRecalque">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioJr06&repo=PainelRecalque&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/SergioJr06/coding-challenges">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioJr06&repo=coding-challenges&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
+| Projeto | Do que se trata | Stack |
+|---------|-----------------|-------|
+| **[SafeGuardIA](https://github.com/SergioJr06/SafeGuardIA)** | Projeto unindo segurança e inteligência artificial | `Python` |
+| **[86x-64-Assembly](https://github.com/SergioJr06/86x-64-Assembly)** | Estudos práticos de arquitetura de processadores e manipulação de memória | `Assembly` |
+| **[Projeto-de-Login-Sign](https://github.com/SergioJr06/Projeto-de-Login-Sign)** | Sistema de login e cadastro com persistência em banco | `Python` `MySQL` |
+| **[Projeto_Integrador_C_Sharp_e_IA](https://github.com/SergioJr06/Projeto_Integrador_C_Sharp_e_IA)** | Projeto integrador combinando C# e inteligência artificial | `C#` `Python` |
+| **[ProjetoEngSoft_Transportadora](https://github.com/SergioJr06/ProjetoEngSoft_Transportadora)** | Sistema de gestão para transportadora — Engenharia de Software | `Java` |
+| **[coding-challenges](https://github.com/SergioJr06/coding-challenges)** | Desafios de lógica e estruturas de dados resolvidos para estudo | `Python` |
 
 ---
 
@@ -125,16 +117,7 @@ class SergioEduardo:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SergioJr06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioJr06&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=SergioJr06&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SergioJr06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
 
 <br><br>
 
