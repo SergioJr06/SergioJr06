@@ -119,8 +119,6 @@ class SergioEduardo:
 
 <img src="https://streak-stats.demolab.com?user=SergioJr06&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SergioJr06/SergioJr06/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SergioJr06/SergioJr06/output/snake.svg" />
