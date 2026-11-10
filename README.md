@@ -31,18 +31,18 @@ class SergioEduardo:
         self.graduacao   = "Engenharia da Computação — UNISAL (2024–2027)"
         self.tecnico     = "Eletroeletrônica — SENAI São Paulo (2025–2026)"
         self.trabalho    = "Aprendiz de Eletroeletrônica @ Iochpe-Maxion S.A."
-        self.foco        = ["Cybersecurity", "Inteligência Artificial", "Cloud"]
-        self.idiomas     = ["Português (nativo)", "Inglês (intermediário)"]
+        self.foco        = ["Cybersecurity", "AI Security & LLM Engineering (RAG, PyTorch)"]
+        self.idiomas     = ["Português (nativo)", "Inglês (intermediário)", "Espanhol (básico)"]
 
     def objetivo(self):
         return "Aprimorar conhecimentos e ganhar experiência prática em tecnologia."
 ```
 
-- 🔐 Construindo carreira em **Segurança da Informação** — redes, Linux, hardening e análise de vulnerabilidades.
-- 🤖 Gosto de brincar com **IA**: visão computacional, PyTorch e apps rápidos em Streamlit.
-- ⚡ Venho do mundo da **eletroeletrônica** — eletrônica analógica e digital, Arduino, Raspberry Pi e automação também são meu território.
-- 🧩 Resolvo desafios de lógica no NeetCode para manter o raciocínio afiado.
-- 💬 Sou aberto a conhecer novas pessoas e culturas!
+- 🔐 **Cybersecurity & Hardening:** Foco em análise de vulnerabilidades, segurança em Linux, redes e resolução de labs práticos no Hack The Box.
+- 🤖 **IA & Large Language Models (LLMs):** Desenvolvimento de aplicações com PyTorch, RAG (Retrieval-Augmented Generation) e realização de estudos sobre segurança de LLMs.
+- ⚡ **Hardware & IoT Security:** Background em Eletroeletrônica (SENAI) aplicado à integração de firmware, ESP32, Raspberry Pi e segurança em sistemas embarcados.
+- 🔍 Pesquisa & Análise: Curioso por entender como os sistemas funcionam por baixo dos panos, explorando arquiteturas de IA, engenharia reversa e segurança.
+- 💬 **Networking & Colaboração:** Sempre aberto a aprender sobre LLM Security, Blue/Red Teaming e novos desafios em Engenharia.
 
 ---
 
@@ -104,12 +104,12 @@ class SergioEduardo:
 
 | Projeto | Do que se trata | Stack |
 |---------|-----------------|-------|
-| **[SafeGuardIA](https://github.com/SergioJr06/SafeGuardIA)** | Projeto unindo segurança e inteligência artificial | `Python` |
-| **[86x-64-Assembly](https://github.com/SergioJr06/86x-64-Assembly)** | Estudos práticos de arquitetura de processadores e manipulação de memória | `Assembly` |
-| **[Projeto-de-Login-Sign](https://github.com/SergioJr06/Projeto-de-Login-Sign)** | Sistema de login e cadastro com persistência em banco | `Python` `MySQL` |
+| **[SafeGuardIA](https://github.com/SergioJr06/SafeGuardIA)** | Projeto unindo segurança e inteligência artificial | `Python` `AI` |
+| **[RAG Seguro & LLMs](https://github.com/SergioJr06/rag-seguro-docs.git)** | API que responde perguntas sobre documentos de segurança de LLMs | `Python` |
+| **[Sistema_de_Monitoramento_de_Drenagem_com_ESP32](https://github.com/SergioJr06/Sistema_de_Monitoramento_de_Drenagem_com_ESP32.git)** | Sistema inteligente de monitoramento em tempo real aplicado à drenagem urbana, desenvolvido com Streamlit + ESP32 IoT. | `Python` `C++` `Streamlit` |
 | **[Projeto_Integrador_C_Sharp_e_IA](https://github.com/SergioJr06/Projeto_Integrador_C_Sharp_e_IA)** | Projeto integrador combinando C# e inteligência artificial | `C#` `Python` |
+| **[ChordStore-FullStack](https://github.com/SergioJr06/ChordStore-FullStack.git)** | Projeto acadêmico FullStack para loja fictícia de instrumentos musicais| `C#` `TypeScript` `CSS` |
 | **[ProjetoEngSoft_Transportadora](https://github.com/SergioJr06/ProjetoEngSoft_Transportadora)** | Sistema de gestão para transportadora — Engenharia de Software | `Java` |
-| **[coding-challenges](https://github.com/SergioJr06/coding-challenges)** | Desafios de lógica e estruturas de dados resolvidos para estudo | `Python` |
 
 ---
 
@@ -133,10 +133,10 @@ class SergioEduardo:
 
 | Área | O que estou estudando | Status |
 |------|----------------------|--------|
-| 🔐 Cybersecurity | Fundamentos de redes, Linux hardening, TryHackMe | 🟢 Em andamento |
-| ☁️ Cloud | Microsoft Azure — fundamentos e serviços | 🟢 Em andamento |
-| 🤖 IA | Visão computacional com PyTorch e OpenCV | 🟡 Explorando |
-| 🧠 Algoritmos | Estruturas de dados e desafios no NeetCode | 🟢 Em andamento |
+|🔐 Cybersecurity | Pentest, análise de vulnerabilidades, Linux | 🟢 Em andamento |
+| 🤖 IA & LLMs | Arquiteturas RAG, IA Generativa & segurança em LLMs (OWASP Top 10 for LLMs) | 🟢 Em andamento |
+| ☁️ Cloud & DevOps | Fundamentos de Azure, containerização com Docker & integração CI/CD | 🟡 Explorando |
+| ⚡ Hardware & IoT | Comunicação de protocolos de rede em sistemas embarcados (ESP32 / Raspberry Pi) | 🟢 Em andamento |
 | 🎓 Graduação | Engenharia da Computação — UNISAL | 📅 Conclusão em 2027 |
 
 ---
