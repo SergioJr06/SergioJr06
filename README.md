@@ -104,7 +104,7 @@ class SergioEduardo:
 
 | Projeto | Do que se trata | Stack |
 |---------|-----------------|-------|
-| **[SafeGuardIA](https://github.com/SergioJr06/SafeGuardIA)** | Projeto unindo segurança e inteligência artificial | `Python` `AI` |
+| **[SafeGuardIA](https://github.com/SergioJr06/SafeGuardIA)** | Projeto unindo segurança do trabalho (NR-6) e inteligência artificial | `Python` `AI` |
 | **[RAG Seguro & LLMs](https://github.com/SergioJr06/rag-seguro-docs.git)** | API que responde perguntas sobre documentos de segurança de LLMs | `Python` |
 | **[Sistema_de_Monitoramento_de_Drenagem_com_ESP32](https://github.com/SergioJr06/Sistema_de_Monitoramento_de_Drenagem_com_ESP32.git)** | Sistema inteligente de monitoramento em tempo real aplicado à drenagem urbana, desenvolvido com Streamlit + ESP32 IoT. | `Python` `C++` `Streamlit` |
 | **[Projeto_Integrador_C_Sharp_e_IA](https://github.com/SergioJr06/Projeto_Integrador_C_Sharp_e_IA)** | Projeto integrador combinando C# e inteligência artificial | `C#` `Python` |
